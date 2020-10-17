@@ -4,3 +4,13 @@ body, html {
  font: 400 15px/1.8 "Lato", sans-serif;
  color: #777;
 }
+
+.bgimg {
+ position: relative;
+ opacity: 0.55;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-image: url("brain.jpg");
+ height: 100%;
+}
